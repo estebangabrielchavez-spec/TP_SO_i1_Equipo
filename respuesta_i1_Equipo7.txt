@@ -8,3 +8,12 @@ En la web de GitHub sí, pero en su repositorio local de Windows NO hasta que ej
 
 b- ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 No, mientras solo esté en su computadora local. Recién lo ven cuando ALFA hace "git push" y los demás hacen "git pull".
+
+c- ¿Si BETA agrega un archivo los demás integrantes lo ven?
+No, hasta que se realiza el push remoto y pull local del resto.
+
+d- ¿De qué forma se comunicaron ustedes?
+Discord y WhatsApp.
+
+e- ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+mediante GitHub Issues para discusiones y fallos, comentarios en Pull Requests para revisiones de código y el tablero de GitHub Projects para asignación y seguimiento de tareas.
