@@ -1,2 +1,3 @@
 
 BETA: Candela Gutierrez - IP: 192.168.1.41 - Hora:19:06
+ALFA: Esteban Chavez - IP: 192.168.100.12 - Hora:19:59
