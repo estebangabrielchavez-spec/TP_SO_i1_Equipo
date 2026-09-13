@@ -1,0 +1,10 @@
+Integrantes:
+ALFA: Esteban Chavez
+BETA: Candela Gutierrez
+(GAMMA ausente - Asumido por el equipo según consigna)
+
+a- ¿ALFA ve los datos que cargaron los demás en su repositorio?
+En la web de GitHub sí, pero en su repositorio local de Windows NO hasta que ejecute "git pull".
+
+b- ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+No, mientras solo esté en su computadora local. Recién lo ven cuando ALFA hace "git push" y los demás hacen "git pull".
